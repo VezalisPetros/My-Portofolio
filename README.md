@@ -2,6 +2,6 @@ This project is a website that displays my portfolio. It includes information ab
 
 The main goals of this project are:
 
-To showcase my skills and experience.
-To provide examples of my projects.
-To create a professional-looking portfolio that is easy to navigate.
+1)To showcase my skills and experience.
+2)To provide examples of my projects.
+3)To create a professional-looking portfolio that is easy to navigate.
